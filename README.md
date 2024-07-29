@@ -7,7 +7,7 @@
 
 🚀 Passionate about leveraging machine learning and cloud technologies to build innovative solutions
 
-💼 Skilled in Python, Java, and cloud platforms like AWS and Azure
+💼 Skilled in C++, Python and cloud platforms.
 
 📚 Currently working on projects involving data analytics, AI, and scalable cloud architectures
 
